@@ -1,0 +1,1 @@
+export const categories = ["All", "Puzzle", "Strategy", "Classic", "Multiplayer"];
